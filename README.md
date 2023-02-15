@@ -9,6 +9,9 @@ Myself ***Delwin***, a passionate `FlutterFire` Developer.
 This is a package made for Flutter on Android, iOS, Windows and Linux.   
 UI design for dismissible  `Containers` similar to that of iOS Notification Center. Inspired by a question on StackOverflow. 
 
+![Screenshot_1676469696](https://user-images.githubusercontent.com/84124091/219048415-e6a90398-29ed-4da1-971c-7477b94d13fb.png)
+
+
 ## Features
 You can organize UI components in a stacked manner. These are only dismissible and can trigger a `Function` on clicked. 
 
