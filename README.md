@@ -11,13 +11,14 @@ UI design for dismissible  `Containers` similar to that of iOS Notification Cent
 
 <img src="https://user-images.githubusercontent.com/84124091/219048415-e6a90398-29ed-4da1-971c-7477b94d13fb.png" height=480 width=270>
 
-
 ## Features
 You can organize UI components in a stacked manner. These are only dismissible and can trigger a `Function` on clicked. 
 
 `StackedListItem` is a built in `StatelessWidget` which can be coupled with `StackedList` to show components. Alternatively you can use `Containers` for the same.
 
-https://user-images.githubusercontent.com/84124091/219039940-beb32e6c-a7e3-4e9b-8f9a-4a6060b4d3ed.mp4
+
+<video src="https://user-images.githubusercontent.com/84124091/219039940-beb32e6c-a7e3-4e9b-8f9a-4a6060b4d3ed.mp4" data-canonical-src="https://user-images.githubusercontent.com/84124091/219039940-beb32e6c-a7e3-4e9b-8f9a-4a6060b4d3ed.mp4" controls="controls" muted="muted" style="max-height:640px; min-height: 200px">
+</video>
 
 ## Getting started
 ### Depend on it
